@@ -1,4 +1,4 @@
-##Abstract
+Abstract
 
  Public organizations are increasingly reevaluating procurement practices to align
  with sustainability goals. This thesis investigates the integration of sustainable
